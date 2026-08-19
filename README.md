@@ -40,7 +40,7 @@ A dark frosted-glass Obsidian theme with crimson terminal accents, colored headi
 
 ## Recommended Settings via Style Settings
 
-![settings](Settings.png)
+![settings](settings.png)
 
 
 ## Author
