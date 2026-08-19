@@ -1,4 +1,4 @@
-# Bloody Glazz
+# Ember Glazz
 ![showcase](showcase.png)
 
 A dark frosted-glass Obsidian theme with crimson terminal accents, colored heading bars, and a clean gem divider.
@@ -29,11 +29,11 @@ A dark frosted-glass Obsidian theme with crimson terminal accents, colored headi
 ### Recommended
 1. Open Obsidian
 2. Go to **Settings → Appearance → Themes → Manage**
-3. Search for **"Bloody Glazz"** and install the theme
+3. Search for **"Ember Glazz"** and install the theme
 
 ### Manual Installation
 1. Download the latest release assets (`manifest.json` + `theme.css`)
-2. Create folder: `.obsidian/themes/Bloody Glazz/`
+2. Create folder: `.obsidian/themes/Ember Glazz/`
 3. Place both files inside that folder
 4. Reload Obsidian and enable the theme in **Settings → Appearance**
 
