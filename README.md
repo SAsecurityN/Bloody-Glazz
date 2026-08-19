@@ -16,7 +16,6 @@ A dark frosted-glass Obsidian theme with crimson terminal accents, colored headi
 
 ## Features
 
-- Canvas with soft crimson
 - Frosted glass panels
 - Adjustable glass blur and transparency via Style Settings plugin
 - Six different colored heading bars (From heading 1 to heading 6)
